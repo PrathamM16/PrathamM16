@@ -12,7 +12,7 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 - ⚡ Fun fact: [As Being in Technical feild i also have done projects on Infographic designing, Video editing, Poster editing.]
 
 ## My GitHub Stats
-![PRATHAM M](https://github-readme-stats.vercel.app/api?username=PrathamM16&show_icons=true&theme=radical)
+![PRATHAM M GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamM16&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
