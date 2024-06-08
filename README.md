@@ -56,9 +56,9 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 
 ## EDUCATION
 Christ University
-Degree: Master of Computer Applications (MCA)
+Post Graduation Degree: Master of Computer Applications (MCA)
 Years: 2023 - 2025
-Focus: Advanced computing, software development, and system design, Techinical Skills
+Focus: Advanced computing, software development,Backend Development,FrontEnd Development and system design, Techinical Skills
 
 St. Joseph's University
 Degree: Bachelor of Science in Mathematics, Electronics, and Computer Science
