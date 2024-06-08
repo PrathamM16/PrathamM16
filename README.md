@@ -14,7 +14,8 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 ## My GitHub Stats
 ![Pratham_M GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamM16&show_icons=true&theme=radical)
 
-[![GitHub Commits Graph](https://github.com/your-username/your-repository/blob/main/image.png)](https://github.com/your-username/your-repository)
+
+[![GitHub Commits Graph](https://github.com/PrathamM16/PrathamM16/blob/main/image.png)](https://github.com/PrathamM16/PrathamM16)
 
 
 ## Languages and Tools
