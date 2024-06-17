@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-**PrathamM16/PrathamM16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Pratham M, passionate about Technical Projects and Innovations. From Bengaluru, I'm actively involved in the tech community and enjoy working on a variety of exciting projects.
 
