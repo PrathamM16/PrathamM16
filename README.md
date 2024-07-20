@@ -12,18 +12,16 @@ I'm **Pratham M**, a tech enthusiast from Bengaluru with a passion for Technical
 
 ![Pratham_M GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamM16&show_icons=true&theme=radical)
 
-![Followers](https://img.shields.io/github/followers/PrathamM16?label=Followers&style=social)
-![Repositories](https://img.shields.io/github/repos-count/PrathamM16?label=Repositories&style=social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamM16&layout=compact&langs_count=10)](https://github.com/PrathamM16)
 
 ### Active Projects
 I am currently collaborating on:
 - **Android App Development**
-- **Data Analytics in Python Projects**
+- **Data Analytics and Python Projects**
 
 ### Data Analytics Contribution
-- **Data Analytics**: ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-20%25-blue)  <!-- Adjust percentage as needed -->
+- **Data Analytics**: ![Data Analytics](https://img.shields.io/badge/Data%50Analytics-20%25-blue)  
 
 ## Languages and Tools
 
