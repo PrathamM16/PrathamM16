@@ -12,8 +12,11 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 
 ## My GitHub Stats
 ![Pratham_M GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamM16&show_icons=true&theme=radical)
+![Collaborations](https://img.shields.io/github/followers/PrathamM16?label=Collaborations&style=social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamM16&layout=compact&langs_count=10)](https://github.com/PrathamM16)
+### Data Analytics Contribution
+- **Data Analytics**: ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-20%25-blue)  
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
