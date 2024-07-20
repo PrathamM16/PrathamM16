@@ -26,6 +26,18 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 ![XML](https://img.shields.io/badge/-XML-333?style=flat&logo=xml)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=flat&logo=intellij-idea)
 
+<!-- progress_bar.xml -->
+<ProgressBar
+    android:id="@+id/progressBar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:indeterminate="false"
+    android:max="100"
+    android:progress="50"
+    android:progressDrawable="@drawable/progress_bar_drawable" />
+
+
 # My Skills
 
 ## Office Suites
