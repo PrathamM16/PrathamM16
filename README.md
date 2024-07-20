@@ -19,10 +19,7 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamM16&layout=compact&langs_count=10)](https://github.com/PrathamM16)
 
-### Collaborations and Contributions
 
-- **Contributions:** [Link to Contributions](https://github.com/PrathamM16?tab=overview&from=2024-01-01&to=2024-12-31)  
-  (You can manually add the link to your contributions page.)
 
 - **Active Projects:** Currently collaborating on various projects including Android App Development ,Data analytics Python Projects.
 ### Data Analytics Contribution
