@@ -13,9 +13,7 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 ## My GitHub Stats
 ![Pratham_M GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamM16&show_icons=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamM16&layout=compact)](https://github.com/PrathamM16)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamM16&layout=compact&langs_count=10)](https://github.com/PrathamM16)
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -26,16 +24,7 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 ![XML](https://img.shields.io/badge/-XML-333?style=flat&logo=xml)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=flat&logo=intellij-idea)
 
-<!-- progress_bar.xml -->
-<ProgressBar
-    android:id="@+id/progressBar"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:layout_margin="16dp"
-    android:indeterminate="false"
-    android:max="100"
-    android:progress="50"
-    android:progressDrawable="@drawable/progress_bar_drawable" />
+
 
 
 # My Skills
