@@ -1,31 +1,32 @@
 ## Hi there 👋
 
+I'm **Pratham M**, a tech enthusiast from Bengaluru with a passion for Technical Projects and Innovations. I actively contribute to the tech community and thrive on working on a variety of exciting projects.
 
-
-I'm Pratham M, passionate about Technical Projects and Innovations. From Bengaluru, I'm actively involved in the tech community and enjoy working on a variety of exciting projects.
-
-- 🔭 I’m currently doing projects on [Android App Project and Python Project]
-- 🌱 I’m learning [Generative Ai And Data Analytics ]
-- 👯 I’m looking to collaborate on [Any Projects ]
-- 📫 How to reach me: [pratham.m@1605@gmail.com]
-- ⚡ Fun fact: [As Being in Technical feild i also have done projects on Infographic designing, Video editing, Poster editing.]
+- 🔭 **Current Projects:** [Android App Development & Python Projects]
+- 🌱 **Learning:** [Generative AI & Data Analytics]
+- 👯 **Looking for:** [Collaborative Opportunities on Exciting Projects]
+- 📫 **Reach Me:** [pratham.m@1605@gmail.com]
+- ⚡ **Fun Fact:** Beyond technical projects, I also enjoy [Infographic Designing, Video Editing, and Poster Creation].
 
 ## My GitHub Stats
 
 ![Pratham_M GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamM16&show_icons=true&theme=radical)
 
-![Collaborations](https://img.shields.io/github/followers/PrathamM16?label=Followers&style=social)
-
+![Followers](https://img.shields.io/github/followers/PrathamM16?label=Followers&style=social)
+![Repositories](https://img.shields.io/github/repos-count/PrathamM16?label=Repositories&style=social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamM16&layout=compact&langs_count=10)](https://github.com/PrathamM16)
 
+### Active Projects
+I am currently collaborating on:
+- **Android App Development**
+- **Data Analytics in Python Projects**
 
-
-- **Active Projects:** Currently collaborating on various projects including Android App Development ,Data analytics Python Projects.
 ### Data Analytics Contribution
-- **Data Analytics**: ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-20%25-blue)  
+- **Data Analytics**: ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-20%25-blue)  <!-- Adjust percentage as needed -->
 
 ## Languages and Tools
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
@@ -34,52 +35,49 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 ![XML](https://img.shields.io/badge/-XML-333?style=flat&logo=xml)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333?style=flat&logo=intellij-idea)
 
+## My Skills
 
-
-
-# My Skills
-
-## Office Suites
+### Office Suites
 - Microsoft Excel
 - Microsoft Word
-- Microsoft Office
 - Microsoft PowerPoint
+- Microsoft Office
 
-## Programming Languages
+### Programming Languages
 - C Programming
 - Python
 - Java
 
-## Development
-- App Development- Kotlin+XML
+### Development
+- App Development (Kotlin + XML)
 - Basics of GoLang
 
-## Web Development
+### Web Development
 - HTML
 - CSS
 - JavaScript
 
-## Data
+### Data
 - Data Analytics
 - DBMS Basics 
 
-## Design
+### Design
 - Graphic Designing
 - Infographic Designing
 - Video Editing
 
-## EDUCATION
-Christ University
-Post Graduation Degree: Master of Computer Applications (MCA)
-Years: 2023 - 2025
-Focus: Advanced computing, software development,Backend Development,FrontEnd Development and system design, Techinical Skills
+## Education
 
-St. Joseph's University
-Degree: Bachelor of Science in Mathematics, Electronics, and Computer Science
-Years: 2020 - 2023
-Focus: Fundamental principles of mathematics, electronics, and software engineering.
+**Christ University**  
+*Master of Computer Applications (MCA)*  
+Years: 2023 - 2025  
+Focus: Advanced Computing, Software Development, Backend & Frontend Development, System Design, Technical Skills
 
+**St. Joseph's University**  
+*Bachelor of Science in Mathematics, Electronics, and Computer Science*  
+Years: 2020 - 2023  
+Focus: Fundamental Principles of Mathematics, Electronics, and Software Engineering
 
-## Connect with me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pratham-m16))
+## Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pratham-m16)
