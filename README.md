@@ -16,7 +16,7 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 
 ![Collaborations](https://img.shields.io/github/followers/PrathamM16?label=Followers&style=social)
 
-![Repositories](https://img.shields.io/github/followers/PrathamM16?label=Repositories&style=social)
+![Repositories](https://img.shields.io/badge/Repositories-10-blue?style=flat-square)
 
 ![Contributions](https://img.shields.io/github/contributors/PrathamM16?style=social)
 
