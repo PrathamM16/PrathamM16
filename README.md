@@ -11,10 +11,23 @@ I'm Pratham M, passionate about Technical Projects and Innovations. From Bengalu
 - ⚡ Fun fact: [As Being in Technical feild i also have done projects on Infographic designing, Video editing, Poster editing.]
 
 ## My GitHub Stats
+
 ![Pratham_M GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamM16&show_icons=true&theme=radical)
-![Collaborations](https://img.shields.io/github/followers/PrathamM16?label=Collaborations&style=social)
+
+![Collaborations](https://img.shields.io/github/followers/PrathamM16?label=Followers&style=social)
+
+![Repositories](https://img.shields.io/github/followers/PrathamM16?label=Repositories&style=social)
+
+![Contributions](https://img.shields.io/github/contributors/PrathamM16?style=social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamM16&layout=compact&langs_count=10)](https://github.com/PrathamM16)
+
+### Collaborations and Contributions
+
+- **Contributions:** [Link to Contributions](https://github.com/PrathamM16?tab=overview&from=2024-01-01&to=2024-12-31)  
+  (You can manually add the link to your contributions page.)
+
+- **Active Projects:** Currently collaborating on various projects including Android App Development ,Data analytics Python Projects.
 ### Data Analytics Contribution
 - **Data Analytics**: ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-20%25-blue)  
 
