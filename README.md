@@ -20,8 +20,7 @@ I am currently collaborating on:
 - **Android App Development**
 - **Data Analytics and Python Projects**
 
-### Data Analytics Contribution
-- **Data Analytics**: ![Data Analytics](https://img.shields.io/badge/Data%50Analytics-20%25-blue)  
+
 
 ## Languages and Tools
 
