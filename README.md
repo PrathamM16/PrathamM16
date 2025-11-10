@@ -1,27 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=300&section=header&text=Pratham%20M&fontSize=90&fontAlignY=38&desc=Associate%20Software%20Engineer%20|%20Full-Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Pratham%20M&fontSize=90&fontAlignY=38&desc=Associate%20Software%20Engineer%20|%20Full-Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling" />
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+DevOps+Engineer;AI+Integration+Specialist+%7C+Cloud+Architect;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=🚀+Full+Stack+Developer+%7C+DevOps+Engineer;🤖+AI+Integration+Specialist+%7C+Cloud+Architect;✨+Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratham-m16">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:pratham.m1605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/PrathamM16">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PrathamM16&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=PrathamM16&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -69,7 +71,9 @@ const pratham = {
 + 💡 Exploring microservices architecture with Spring Boot & Kafka
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -121,7 +125,9 @@ const pratham = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -143,7 +149,9 @@ const pratham = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -197,7 +205,9 @@ const pratham = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -339,7 +349,9 @@ Complete DevSecOps pipeline implementation with automated testing, security scan
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -374,7 +386,9 @@ mindmap
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -589,7 +603,9 @@ Implemented Machine Learning algorithms for processing and analyzing datasets wi
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -616,7 +632,9 @@ Implemented Machine Learning algorithms for processing and analyzing datasets wi
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -657,7 +675,9 @@ Sharing knowledge on Medium
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -689,78 +709,11 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<br><br>
-
-### 📊 Quick Stats
-
-![](https://github-readme-stats.vercel.app/api?username=PrathamM16&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
 
 <div align="center">
-
-### 💡 "Automating the future, one line of code at a time!"
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%8C%9F+Star+my+repositories+if+you+find+them+useful!+%F0%9F%8C%9F;%F0%9F%9A%80+Let's+build+something+amazing+together!+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br>
-
-### 📞 Reach Out For
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="60"/><br>
-<b>Collaboration</b><br>
-Open Source Projects<br>
-Innovative Ideas
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/job.png" width="60"/><br>
-<b>Opportunities</b><br>
-Full-Stack Roles<br>
-DevOps Positions
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br>
-<b>Discussion</b><br>
-Tech Trends<br>
-AI & Cloud
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,18,24&height=2"/>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-<!-- <br>
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=AI-Security-Tool&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/PrathamM16/AI-Security-Tool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=Ecommerce-Platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/PrathamM16/Ecommerce-Platform)
-
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=MCP-Automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/PrathamM16/MCP-Automation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=Sentiment-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/PrathamM16/Sentiment-Analysis)
-
-</div>
-
-<br> -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -799,9 +752,9 @@ AI & Cloud
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -834,9 +787,9 @@ AI & Cloud
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -858,27 +811,9 @@ AI & Cloud
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🐍 Contribution Snake
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrathamM16/PrathamM16/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrathamM16/PrathamM16/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrathamM16/PrathamM16/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -910,9 +845,9 @@ For Creative Coding
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -932,9 +867,9 @@ For Creative Coding
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -946,9 +881,9 @@ For Creative Coding
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -995,9 +930,9 @@ Always ON!
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -1024,9 +959,44 @@ Always ON!
 
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 📞 Reach Out For
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="60"/><br>
+<b>Collaboration</b><br>
+Open Source Projects<br>
+Innovative Ideas
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/job.png" width="60"/><br>
+<b>Opportunities</b><br>
+Full-Stack Roles<br>
+DevOps Positions
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br>
+<b>Discussion</b><br>
+Tech Trends<br>
+AI & Cloud
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <br>
 
@@ -1036,10 +1006,10 @@ Always ON!
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+amazing+things!+%F0%9F%9A%80;Happy+Coding!+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=✨+Thank+you+for+visiting+my+profile!+✨;🌟+Star+my+repositories+if+you+find+them+useful!;🚀+Let's+build+something+amazing+together!;💡+Happy+Coding!+Keep+Learning!;🔥+Innovation+through+Collaboration!" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=150&section=footer&text=See%20You%20Soon!&fontSize=40&fontAlignY=70&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=See%20You%20Soon!&fontSize=40&fontAlignY=70&animation=twinkling"/>
 
 </div>
