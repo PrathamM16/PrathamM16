@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=🚀+Full+Stack+Developer+%7C+DevOps+Engineer;🤖+AI+Integration+Specialist+%7C+Cloud+Architect;✨+Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Full+Stack+Developer+%7C+DevOps+Engineer;AI+Integration+Specialist+%7C+Cloud+Architect;Building+the+Future,+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
@@ -1006,7 +1006,7 @@ AI & Cloud
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=✨+Thank+you+for+visiting+my+profile!+✨;🌟+Star+my+repositories+if+you+find+them+useful!;🚀+Let's+build+something+amazing+together!;💡+Happy+Coding!+Keep+Learning!;🔥+Innovation+through+Collaboration!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile!;Star+my+repositories+if+you+find+them+useful!;Let's+build+something+amazing+together!;Happy+Coding!+Keep+Learning!;Innovation+through+Collaboration!" alt="Typing SVG" />
 
 <br><br>
 
