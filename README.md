@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+DevOps+Engineer;AI+Integration+Specialist+%7C+Cloud+Architect;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+DevOps+Engineer;AI+Integration+Specialist+%7C+Cloud+Architect;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -138,7 +138,9 @@ const pratham = {
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrathamM16&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrathamM16&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -746,21 +748,13 @@ AI & Cloud
 
 <div align="center">
 
-<a href="https://github.com/PrathamM16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=AI-Security-Tool&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/PrathamM16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=Ecommerce-Platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=AI-Security-Tool&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/PrathamM16/AI-Security-Tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=Ecommerce-Platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/PrathamM16/Ecommerce-Platform)
 
-<br><br>
+<br>
 
-<a href="https://github.com/PrathamM16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=MCP-Automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/PrathamM16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=Sentiment-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=MCP-Automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/PrathamM16/MCP-Automation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrathamM16&repo=Sentiment-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/PrathamM16/Sentiment-Analysis)
 
 </div>
 
