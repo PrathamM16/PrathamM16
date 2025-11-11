@@ -18,12 +18,16 @@
   <a href="https://github.com/PrathamM16">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://prathamm16.github.io/Pratham-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=PrathamM16&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider">
 </div>
+
 
 <br>
 
