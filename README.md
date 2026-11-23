@@ -95,7 +95,7 @@ const pratham = {
 ### 🏢 **Trivium eSolution Pvt Ltd**
 
 **🔹 Software Engineer** *(Oct 2026 - Present)*
-- ⬆️ Upgraded the backend from .NET 8 to .NET 10 (Dockerfiles, build, test & local run)
+- ⬆️ Upgraded the backend from .NET 8 (Dockerfiles, build, test & local run)
 - 🧩 Refactored backend services (ConfigurationServiceWorker, AuthWorker, EventWorker) and rebuilt the frontend in Angular with a configuration-driven dynamic UI & multi-language support
 - ☸️ PowerShell & Bash automation to build Docker artifacts and deploy microservices to Kubernetes (K3s) with Keycloak, Kong API Gateway, RabbitMQ & PostgreSQL
 - 🛠️ Fixed Keycloak CrashLoop on artifact updates, kubelet failures and K3s air-gap deployment issues
@@ -389,7 +389,6 @@ Complete DevSecOps pipeline implementation with automated testing, security scan
 Production industrial IoT platform for transformer monitoring, running from ARM64 edge devices to Kubernetes (K3s) deployments.
 
 **✨ Key Features:**
-- ⬆️ .NET 8 → .NET 10 backend upgrade
 - 🔌 AMD64 → ARM64 migration on Siemens IOT2050
 - 📡 Real-time Modbus data pipeline (DGA, SCADA, Trends)
 - 🔐 Keycloak, Kong API Gateway, RabbitMQ & PostgreSQL
@@ -400,7 +399,8 @@ Production industrial IoT platform for transformer monitoring, running from ARM6
 <td width="50%" valign="top">
 
 ### 🎵 Live Emotion-Based Music Recommender
-[![Paper](https://img.shields.io/badge/IEEE_IITCEE_2026-00629B?style=for-the-badge&logo=ieee&logoColor=white)](#)
+[![Paper](https://img.shields.io/badge/IEEE_IITCEE_2026-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11394620)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrathamM16/-Live-Emotion-Based-Music-Recommender-System--IEEE-Conference)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -643,7 +643,8 @@ CHRIST University
 
 Real-time emotion detection driving personalized music recommendations, presented and published at IEEE IITCEE 2026.
 
-[![Read Paper](https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
+[![Read Paper](https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://ieeexplore.ieee.org/document/11394620)
+[![Certificate](https://img.shields.io/badge/View_Certificate-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/PrathamM16/-Live-Emotion-Based-Music-Recommender-System--IEEE-Conference)
 
 </td>
 <td width="50%" align="center">
@@ -656,7 +657,7 @@ Real-time emotion detection driving personalized music recommendations, presente
 
 Comprehensive analysis of data security challenges in cloud computing environments for critical applications, covering encryption, access control, and compliance frameworks.
 
-[![Read Paper](https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
+[![Read Paper](https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/PrathamM16/Data-Security-In-Cloud-Computing-For-Critical-Applications)
 
 </td>
 </tr>
