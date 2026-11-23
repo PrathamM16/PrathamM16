@@ -1006,11 +1006,13 @@ For Creative Coding
 
 <br>
 
-## 💬 Random Dev Quote
+## 💬 My Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧠 "I would be the first one to solve the issue, once I understand it."
+
+**- Pratham M**
 
 </div>
 
