@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Pratham%20M&fontSize=90&fontAlignY=38&desc=Associate%20Software%20Engineer%20|%20Full-Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Pratham%20M&fontSize=90&fontAlignY=38&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling" />
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Full+Stack+Developer+%7C+DevOps+Engineer;AI+Integration+Specialist+%7C+Cloud+Architect;Building+the+Future,+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Full+Stack+Developer+%7C+DevOps+Engineer;Kubernetes+K3s+%7C+Industrial+IoT+%7C+.NET+%7C+Angular;AI+Integration+Specialist+%7C+Cloud+Architect;Building+the+Future,+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,9 +39,9 @@
 const pratham = {
     location: "Bengaluru, Karnataka 🇮🇳",
     company: "Trivium eSolution Pvt Ltd",
-    role: "Associate Software Engineer",
+    role: "Software Engineer",
     education: "MCA @ CHRIST University",
-    code: ["Python", "Java", "JavaScript", "TypeScript", "Go", "Kotlin"],
+    code: ["Python", "Java", "C#", "JavaScript", "TypeScript", "Go", "Kotlin", "Bash", "PowerShell"],
     technologies: {
         frontEnd: {
             js: ["React", "Angular", "D3.js"],
@@ -49,15 +49,17 @@ const pratham = {
         },
         backEnd: {
             java: ["Spring Boot", "Hibernate"],
-            dotnet: [".NET Core"],
+            dotnet: [".NET 10", ".NET Core"],
             js: ["Node.js", "Express"]
         },
-        databases: ["MySQL", "Firebase"],
-        devOps: ["Docker🐳", "Kubernetes☸️", "Jenkins", "AWS", "Azure"],
+        databases: ["PostgreSQL", "MySQL", "Firebase"],
+        messaging: ["Kafka", "RabbitMQ"],
+        devOps: ["Docker🐳", "Kubernetes☸️", "K3s", "Jenkins", "GitLab", "AWS", "Azure"],
+        platform: ["Keycloak", "Kong API Gateway", "Modbus", "OPC UA"],
         ai: ["OpenAI API", "Claude AI", "MCP", "TensorFlow"],
         tools: ["Git", "SonarQube", "Prometheus", "Grafana"]
     },
-    currentFocus: "Building AI-powered automation & scalable cloud solutions",
+    currentFocus: "Industrial IoT backend & DevOps, AI-powered automation & scalable cloud solutions",
     funFact: "I automate everything - from emails to GitHub repos using AI! 🤖"
 };
 ```
@@ -67,7 +69,10 @@ const pratham = {
 ### 🎯 What I'm Up To
 
 ```diff
-+ 🔭 Building scalable React applications with D3 data visualizations
++ 🔭 Building scalable React & Angular applications with D3 data visualizations
++ 🏭 Working on a production Industrial IoT platform for Siemens Energy (.NET 10 + Angular)
++ ☸️ Automating Kubernetes (K3s) air-gap deployments with PowerShell, Bash & Docker
++ 🔌 Running software on ARM64 industrial edge devices (Siemens IOT2050)
 + 🤖 Implementing AI-powered automation using Model Context Protocol
 + ⚙️ Developing DevSecOps pipelines with Jenkins, Docker & Kubernetes
 + 🌱 Learning advanced Generative AI and cloud-native architectures
@@ -89,11 +94,21 @@ const pratham = {
 
 ### 🏢 **Trivium eSolution Pvt Ltd**
 
-**🔹 Associate Software Engineer** *(Oct 2025 - Present)*
+**🔹 Software Engineer** *(Oct 2026 - Present)*
+- ⬆️ Upgraded the backend from .NET 8 to .NET 10 (Dockerfiles, build, test & local run)
+- 🧩 Refactored backend services (ConfigurationServiceWorker, AuthWorker, EventWorker) and rebuilt the frontend in Angular with a configuration-driven dynamic UI & multi-language support
+- ☸️ PowerShell & Bash automation to build Docker artifacts and deploy microservices to Kubernetes (K3s) with Keycloak, Kong API Gateway, RabbitMQ & PostgreSQL
+- 🛠️ Fixed Keycloak CrashLoop on artifact updates, kubelet failures and K3s air-gap deployment issues
+- ✅ Raised backend test coverage from **55% to 85%** with xUnit and resolved SonarQube issues
+
+**🔹 Associate Software Engineer** *(Oct 2025 - Sep 2026)*
 - 🎨 React + .NET full-stack development
 - 📊 D3 Charts & Advanced Data Visualization
 - 📚 Component Library Development (Storybook)
 - 🎯 Styled Components & Modern CSS Architecture
+- 🔌 Migrated components from AMD64 to ARM64 and validated on the Siemens IOT2050 industrial edge device
+- 📡 Integrated a real-time Modbus Python data pipeline for DGA, SCADA & Trend Charts
+- 🤖 Connected Postgres MCP & Playwright MCP servers for GitHub Copilot-assisted testing
 
 **🔹 Trainee** *(Jul 2025 - Sep 2025)*
 - 🤖 Built advanced MCP automation system
@@ -107,6 +122,11 @@ const pratham = {
 ### 💡 **Key Achievements**
 
 **🔹 Intern** *(Jan 2025 - Jun 2025)*
+
+🧪 **MODscan Testing**
+- 500+ test cases authored
+- 10,000+ events imported to stress-test UI lazy loading
+- Verified on Debian 12/13 & Siemens Industrial OS
 
 🎯 **AI Security Tool**
 - Reduced manual analysis time by **80%**
@@ -139,7 +159,7 @@ const pratham = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrathamM16&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathamM16&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=PrathamM16&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -166,25 +186,28 @@ const pratham = {
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,go,kotlin,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,c,go,kotlin,bash,powershell,r&theme=dark" />
 </p>
 
 ### 🎨 Frontend Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap,materialui,styledcomponents&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap,materialui,styledcomponents,storybook&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,hibernate,mysql,firebase,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,hibernate,postgres,mysql,firebase,mongodb,rabbitmq,kafka&theme=dark" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,prometheus,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,ansible,gitlab,linux,debian,prometheus,grafana&theme=dark" />
+  <img src="https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black" />
 </p>
 
 ### 🤖 AI/ML & Data Science
@@ -205,6 +228,7 @@ const pratham = {
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 </div>
@@ -349,6 +373,49 @@ Complete DevSecOps pipeline implementation with automated testing, security scan
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 Transformer Digitalization (Siemens Energy)
+<img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black" />
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+**🎯 Impact: Backend test coverage 55% → 85%**
+
+Production industrial IoT platform for transformer monitoring, running from ARM64 edge devices to Kubernetes (K3s) deployments.
+
+**✨ Key Features:**
+- ⬆️ .NET 8 → .NET 10 backend upgrade
+- 🔌 AMD64 → ARM64 migration on Siemens IOT2050
+- 📡 Real-time Modbus data pipeline (DGA, SCADA, Trends)
+- 🔐 Keycloak, Kong API Gateway, RabbitMQ & PostgreSQL
+- ☸️ K3s air-gap deployments with PowerShell & Bash automation
+- 🌐 Config-driven dynamic Angular UI with multi-language support
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Live Emotion-Based Music Recommender
+[![Paper](https://img.shields.io/badge/IEEE_IITCEE_2026-00629B?style=for-the-badge&logo=ieee&logoColor=white)](#)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+
+**🏅 Published: IEEE, IITCEE 2026 (BNMIT)**
+
+Real-time music recommendation system driven by live emotion detection.
+
+**✨ Key Features:**
+- 😊 Live emotion detection
+- 🎶 Emotion-based music recommendations
+- 📄 Published research paper & conference certificate
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -374,8 +441,13 @@ mindmap
     DevOps & Cloud
       CI/CD Pipelines
       Docker & Kubernetes
+      K3s Air-Gap Deployments
       AWS & Azure & GCP
       Infrastructure as Code
+    Industrial IoT
+      ARM64 Edge Devices
+      Modbus & OPC UA
+      Keycloak & Kong
     AI & Automation
       Model Context Protocol
       Generative AI Integration
@@ -435,6 +507,17 @@ mindmap
 - CS Fundamentals & Algorithms
 - Mathematics & Statistical Analysis
 - Electronics & Embedded Systems
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**Pre-University (12th)**  
+🏛️ Jnanodaya Pre-University College  
+📅 June 2018 - April 2020  
+📊 Percentage: 79.00%  
+**Major:** Electronics, Mathematics, Computer Science
 
 </td>
 </tr>
@@ -524,7 +607,7 @@ Amazon Web Services
 <img src="https://img.icons8.com/fluency/96/000000/machine-learning.png" width="60"/>
 
 **Machine Learning Specialization**  
-Online Course  
+Online Course (Coursera)  
 *2024*  
 **Skills:** Supervised & Unsupervised Learning
 
@@ -550,7 +633,20 @@ CHRIST University
 
 <table>
 <tr>
-<td align="center">
+<td width="50%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/000000/research.png" width="80"/>
+
+**"Live Emotion-Based Music Recommender System"**  
+📅 IITCEE 2026, BNMIT  
+🏅 IEEE Conference Paper
+
+Real-time emotion detection driving personalized music recommendations, presented and published at IEEE IITCEE 2026.
+
+[![Read Paper](https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
+
+</td>
+<td width="50%" align="center">
 
 <img src="https://img.icons8.com/fluency/96/000000/research.png" width="80"/>
 
@@ -561,6 +657,36 @@ CHRIST University
 Comprehensive analysis of data security challenges in cloud computing environments for critical applications, covering encryption, access control, and compliance frameworks.
 
 [![Read Paper](https://img.shields.io/badge/Read_Paper-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎤 Conferences & Community
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**AgentCon Bengaluru**  
+*June 2026*  
+Agentic AI community conference
+
+</td>
+<td width="33%" align="center">
+
+**MCP Community Connect**  
+*September 2026*  
+Model Context Protocol community meetup
+
+</td>
+<td width="33%" align="center">
+
+**Google Cloud Agentic AI Day**  
+*2025*  
+Hack2skill
 
 </td>
 </tr>
@@ -709,7 +835,7 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 <a href="#">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://prathamm16.github.io/Pratham-Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -721,7 +847,7 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 
 <br>
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 <div align="center">
 
@@ -770,12 +896,14 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 @@  Core Expertise  @@
 + Full-Stack Development (React, Angular, Spring Boot, .NET)
 + Cloud Architecture (AWS, Azure, GCP)
-+ DevOps & CI/CD (Jenkins, Docker, Kubernetes)
++ DevOps & CI/CD (Jenkins, Docker, Kubernetes, K3s)
++ Industrial IoT & Edge Computing (ARM64, Modbus, OPC UA)
 + AI & Machine Learning Integration
 + Microservices & Event-Driven Architecture
 
 @@  Currently Exploring  @@
 ! Generative AI & Large Language Models
+! Agentic AI & Model Context Protocol
 ! Serverless Computing & Edge Computing
 ! Web3 & Blockchain Technologies
 ! Quantum Computing Fundamentals
